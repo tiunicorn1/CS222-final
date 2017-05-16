@@ -1,0 +1,728 @@
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+15 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@1c73695,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+15 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@1c73695,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+16 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+16 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+16 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+16 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+19 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,invalid,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@1c73695,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+19 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,invalid,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@1c73695,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+20 [AWT-EventQueue-0] ERROR edu.mcckc.gui.PanelApp  - Must Enter Special Characters
+20 [AWT-EventQueue-0] ERROR edu.mcckc.gui.PanelApp  - Must Enter Special Characters
+20 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+20 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+20 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+20 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+24 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+24 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+25 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 9  charTypeLenghth 26 
+25 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 9  charTypeLenghth 26 
+26 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - fkhttkktg
+26 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - fkhttkktg
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+9 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+9 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+12 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789abcdefghijklmnopqrstuvwxyz
+12 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789abcdefghijklmnopqrstuvwxyz
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 11  charTypeLenghth 36 
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 11  charTypeLenghth 36 
+14 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 8dxpl2irpxt
+14 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 8dxpl2irpxt
+3206 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+3206 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+3207 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+3207 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+3207 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+3207 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+3208 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+3208 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+3208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+3208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+3208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+3208 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+3209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 10  charTypeLenghth 62 
+3209 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 10  charTypeLenghth 62 
+3212 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - RTORv1U9IV
+3212 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - RTORv1U9IV
+5366 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+5366 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+5367 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+5367 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+5367 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+5367 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+5367 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+5367 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+5368 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+5368 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+5368 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+5368 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+5369 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 9  charTypeLenghth 36 
+5369 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 9  charTypeLenghth 36 
+5380 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - HQI1NIMKW
+5380 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - HQI1NIMKW
+6926 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+6926 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+6927 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+6927 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+6927 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+6927 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+6927 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+6927 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+6928 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+6928 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+6928 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadUpperAlphabet: ABCDEFGHIJKLMNPQRSTUVWXYZ
+6928 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadUpperAlphabet: ABCDEFGHIJKLMNPQRSTUVWXYZ
+6929 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 123456789
+6929 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 123456789
+6929 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+6929 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+6930 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+6930 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+6930 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: ABCDEFGHIJKLMNPQRSTUVWXYZ23456789
+6930 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: ABCDEFGHIJKLMNPQRSTUVWXYZ23456789
+6930 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 8  charTypeLenghth 33 
+6930 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 8  charTypeLenghth 33 
+6933 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - YVLMBXBQ
+6933 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - YVLMBXBQ
+9838 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+9838 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+9839 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+9839 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+9840 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+9840 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+9840 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+9840 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+9840 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+9840 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+9841 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadLowerAlphabet: abcdefghijkmnopqrstuvwxyz
+9841 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadLowerAlphabet: abcdefghijkmnopqrstuvwxyz
+9841 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 123456789
+9841 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 123456789
+9841 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+9841 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+9842 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+9842 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+9842 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijkmnopqrstuvwxyz23456789
+9842 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijkmnopqrstuvwxyz23456789
+9842 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 9  charTypeLenghth 33 
+9842 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 9  charTypeLenghth 33 
+9845 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - a6vwkmzna
+9845 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - a6vwkmzna
+11606 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+11606 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+11607 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+11607 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+11608 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+11608 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+11608 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+11608 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+11608 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+11608 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+11609 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadUpperAlphabet: ABCDEFGHIJKLMNPQRSTUVWXYZ, EZreadLowerAlphabet: abcdefghijkmnopqrstuvwxyz
+11609 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadUpperAlphabet: ABCDEFGHIJKLMNPQRSTUVWXYZ, EZreadLowerAlphabet: abcdefghijkmnopqrstuvwxyz
+11609 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 123456789
+11609 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 123456789
+11609 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+11609 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+11610 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+11610 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+11610 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: ABCDEFGHIJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz23456789
+11610 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: ABCDEFGHIJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz23456789
+11610 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 8  charTypeLenghth 58 
+11610 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 8  charTypeLenghth 58 
+11612 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - kItDN8FI
+11612 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - kItDN8FI
+13823 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+13823 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+13824 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+13824 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+13824 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+13824 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+13825 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+13825 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+13825 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+13825 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+13825 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadUpperAlphabet: ABCDEFGHIJKLMNPQRSTUVWXYZ
+13825 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadUpperAlphabet: ABCDEFGHIJKLMNPQRSTUVWXYZ
+13826 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 123456789
+13826 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 123456789
+13826 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+13826 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+13826 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+13826 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+13827 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: ABCDEFGHIJKLMNPQRSTUVWXYZ23456789
+13827 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: ABCDEFGHIJKLMNPQRSTUVWXYZ23456789
+13827 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 13  charTypeLenghth 33 
+13827 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 13  charTypeLenghth 33 
+13828 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - IG2FVITMYTTYP
+13828 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - IG2FVITMYTTYP
+19480 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+19480 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+19481 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+19481 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+19481 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+19481 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+19481 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+19481 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+19481 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+19481 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+19481 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadUpperAlphabet: ABCDEFGHIJKLMNPQRSTUVWXYZ
+19481 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadUpperAlphabet: ABCDEFGHIJKLMNPQRSTUVWXYZ
+19481 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 123456789
+19481 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 123456789
+19482 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+19482 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+19482 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+19482 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+19482 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: ABCDEFGHIJKLMNPQRSTUVWXYZ23456789
+19482 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: ABCDEFGHIJKLMNPQRSTUVWXYZ23456789
+19482 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 12  charTypeLenghth 33 
+19482 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 12  charTypeLenghth 33 
+19484 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - N3DZJZCS55VD
+19484 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - N3DZJZCS55VD
+22704 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+22704 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+22705 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+22705 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+22705 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+22705 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+22705 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+22705 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+22706 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+22706 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+22706 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+22706 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+22706 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadUpperAlphabet: ABCDEFGHIJKLMNPQRSTUVWXYZ
+22706 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadUpperAlphabet: ABCDEFGHIJKLMNPQRSTUVWXYZ
+22707 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 123456789
+22707 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 123456789
+22707 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+22707 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+22707 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+22707 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+22713 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: ABCDEFGHIJKLMNPQRSTUVWXYZ23456789
+22713 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: ABCDEFGHIJKLMNPQRSTUVWXYZ23456789
+22713 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 13  charTypeLenghth 33 
+22713 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 13  charTypeLenghth 33 
+22715 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - TUQT7GCE9XJIV
+22715 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - TUQT7GCE9XJIV
+23929 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+23929 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+23930 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+23930 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+23930 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+23930 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+23930 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+23930 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+23930 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+23930 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+23931 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+23931 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+23931 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadUpperAlphabet: ABCDEFGHIJKLMNPQRSTUVWXYZ
+23931 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadUpperAlphabet: ABCDEFGHIJKLMNPQRSTUVWXYZ
+23931 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 123456789
+23931 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 123456789
+23932 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+23932 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+23932 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+23932 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - EZreadDigit: 23456789
+23932 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: ABCDEFGHIJKLMNPQRSTUVWXYZ23456789
+23932 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: ABCDEFGHIJKLMNPQRSTUVWXYZ23456789
+23933 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 11  charTypeLenghth 33 
+23933 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 11  charTypeLenghth 33 
+23934 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 4QI5W9N7RDY
+23934 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 4QI5W9N7RDY
+27841 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+27841 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+27842 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+27842 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+27843 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+27843 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+27843 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+27843 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+27843 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+27843 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+27843 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+27843 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+27844 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+27844 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+27844 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 12  charTypeLenghth 26 
+27844 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 12  charTypeLenghth 26 
+27845 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - AXFYZBIBLLDO
+27845 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - AXFYZBIBLLDO
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+9 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+9 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+9 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+9 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+9 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+9 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 11  charTypeLenghth 0 
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 11  charTypeLenghth 0 
+7587 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+7587 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+7589 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+7589 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+7589 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+7589 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+7589 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+7589 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+7590 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+7590 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+7590 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+7590 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+7590 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+7590 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+7591 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 11  charTypeLenghth 26 
+7591 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 11  charTypeLenghth 26 
+7595 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - ghjqlwrllth
+7595 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - ghjqlwrllth
+8555 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+8555 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+8556 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+8556 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+8557 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8557 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8557 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+8557 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+8566 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+8566 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+8566 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+8566 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+8567 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+8567 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+8567 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 12  charTypeLenghth 26 
+8567 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 12  charTypeLenghth 26 
+8569 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - gdldnglwwskp
+8569 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - gdldnglwwskp
+9139 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+9139 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+9140 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+9140 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+9141 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+9141 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+9141 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+9141 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+9141 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+9141 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+9141 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+9141 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+9142 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+9142 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+9142 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 11  charTypeLenghth 26 
+9142 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 11  charTypeLenghth 26 
+9144 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - nmlxsmmheln
+9144 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - nmlxsmmheln
+9683 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+9683 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+9684 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+9684 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+9684 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+9684 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+9685 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+9685 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+9685 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+9685 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+9685 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+9685 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+9686 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+9686 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+9686 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 8  charTypeLenghth 26 
+9686 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 8  charTypeLenghth 26 
+9688 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - qflnszlo
+9688 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - qflnszlo
+9891 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+9891 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+9892 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+9892 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+9893 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+9893 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+9893 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+9893 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+9893 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+9893 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+9893 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+9893 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+9894 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+9894 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+9894 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 15  charTypeLenghth 26 
+9894 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 15  charTypeLenghth 26 
+9895 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - gszjrvqxlhvzzic
+9895 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - gszjrvqxlhvzzic
+10859 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+10859 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+10860 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+10860 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+10860 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+10860 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+10861 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+10861 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+10861 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+10861 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+10861 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+10861 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+10861 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+10861 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+10862 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 15  charTypeLenghth 26 
+10862 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 15  charTypeLenghth 26 
+10863 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - sjnuxlsqkxdvhzk
+10863 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - sjnuxlsqkxdvhzk
+11380 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+11380 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+11381 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+11381 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+11381 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+11381 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+11382 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+11382 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+11382 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+11382 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+11382 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+11382 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+11382 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+11382 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+11383 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 12  charTypeLenghth 26 
+11383 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 12  charTypeLenghth 26 
+11384 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - lebqostzlknk
+11384 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - lebqostzlknk
+13276 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+13276 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+13277 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+13277 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+13277 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+13277 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+13278 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+13278 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+13278 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+13278 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+13278 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+13278 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+13278 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+13278 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+13279 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 13  charTypeLenghth 26 
+13279 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 13  charTypeLenghth 26 
+13280 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - zwiebaqeqymun
+13280 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - zwiebaqeqymun
+13924 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+13924 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+13931 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+13931 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+13931 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+13931 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+13931 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+13931 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+13932 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+13932 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+13932 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+13932 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+13932 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+13932 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+13933 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 13  charTypeLenghth 26 
+13933 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 13  charTypeLenghth 26 
+13933 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - rfwbquknaxzng
+13933 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - rfwbquknaxzng
+14292 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+14292 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+14293 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+14293 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+14293 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+14293 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+14293 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+14293 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+14294 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+14294 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+14294 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+14294 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+14294 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+14294 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+14295 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 14  charTypeLenghth 26 
+14295 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 14  charTypeLenghth 26 
+14295 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - kydoalnkbhufaj
+14295 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - kydoalnkbhufaj
+14476 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+14476 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+14477 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+14477 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@71b044,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+14477 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+14477 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+14477 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+14477 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+14478 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+14478 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+14478 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+14478 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+14478 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+14478 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+14478 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 13  charTypeLenghth 26 
+14478 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 13  charTypeLenghth 26 
+14479 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - nqdrviahlycvp
+14479 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - nqdrviahlycvp
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+7 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@1a646ac,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+7 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@1a646ac,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+12 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 
+12 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 
+12 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 8  charTypeLenghth 0 
+12 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 8  charTypeLenghth 0 
+5469 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+5469 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+5470 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@1a646ac,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+5470 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@1a646ac,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+5471 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+5471 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+5471 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+5471 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+5471 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+5471 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+5472 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+5472 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+5472 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 
+5472 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 
+5472 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 9  charTypeLenghth 0 
+5472 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 9  charTypeLenghth 0 
+9285 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+9285 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+9288 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@1a646ac,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+9288 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@1a646ac,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+9288 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+9288 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+9289 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+9289 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+9289 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+9289 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+9289 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+9289 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+9289 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789
+9289 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789
+9290 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 10  charTypeLenghth 10 
+9290 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 10  charTypeLenghth 10 
+9293 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 3959425653
+9293 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 3959425653
+18551 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+18551 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+18552 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@1a646ac,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+18552 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@1a646ac,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+18552 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+18552 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+18553 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+18553 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+18553 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+18553 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+18553 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+18553 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+18554 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789
+18554 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789
+18554 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 13  charTypeLenghth 10 
+18554 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 13  charTypeLenghth 10 
+18555 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 2734746661587
+18555 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 2734746661587
+31072 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+31072 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+31073 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@1a646ac,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+31073 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@1a646ac,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+31074 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+31074 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+31074 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+31074 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+31074 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+31074 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+31074 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+31074 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+31075 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789
+31075 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789
+31075 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 13  charTypeLenghth 10 
+31075 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 13  charTypeLenghth 10 
+31076 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 9628936503158
+31076 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 9628936503158
+1 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+1 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@17daaab,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@17daaab,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+9 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 8
+9 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 8
+9 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+9 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+9 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+9 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 8  charTypeLenghth 10 
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 8  charTypeLenghth 10 
+15 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 02176073
+15 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 02176073
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+7 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+7 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@11328ee,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+12 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789
+12 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789
+12 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 8  charTypeLenghth 10 
+12 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 8  charTypeLenghth 10 
+14 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 45751859
+14 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 45751859
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+7 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@12590b1,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+7 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@12590b1,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+8 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+8 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 13  charTypeLenghth 26 
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 13  charTypeLenghth 26 
+17 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - PBRQBLNWGFZEI
+17 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - PBRQBLNWGFZEI
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+7 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@12590b1,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+7 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@12590b1,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+9 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+9 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+12 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+12 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: abcdefghijklmnopqrstuvwxyz
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 12  charTypeLenghth 26 
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 12  charTypeLenghth 26 
+23 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - miicmhqigpqi
+23 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - miicmhqigpqi
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@10cd77b,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@10cd77b,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+9 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+9 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+9 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+9 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+10 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+10 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+10 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+10 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+14 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 
+14 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 
+14 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 9  charTypeLenghth 0 
+14 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 9  charTypeLenghth 0 
+3247 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+3247 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+3248 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@10cd77b,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+3248 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@10cd77b,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+3249 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+3249 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+3249 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+3249 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+3249 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+3249 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+3250 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+3250 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+3250 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789
+3250 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789
+3251 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 8  charTypeLenghth 10 
+3251 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 8  charTypeLenghth 10 
+3254 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 88339115
+3254 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 88339115
+6791 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+6791 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+6792 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@10cd77b,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+6792 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@10cd77b,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+6792 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+6792 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+6792 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+6792 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+6793 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+6793 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+6793 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+6793 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+6793 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 
+6793 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 
+6794 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 10  charTypeLenghth 0 
+6794 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 10  charTypeLenghth 0 
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+7 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@fb0103,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+7 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@fb0103,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+9 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+9 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+9 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+9 [AWT-EventQueue-0] ERROR edu.mcckc.domain.PasswordManager  - Special Characters needed
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 15  charTypeLenghth 26 
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 15  charTypeLenghth 26 
+17 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - WAQVEBPSPKGUFEJ
+17 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - WAQVEBPSPKGUFEJ
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+7 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@1f12f71,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+7 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@1f12f71,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+12 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789null
+12 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789null
+12 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 11  charTypeLenghth 14 
+12 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 11  charTypeLenghth 14 
+14 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 9650n6679l7
+14 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 9650n6679l7
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+0 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Inside Panel App ActionPerformed 
+7 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@1a646ac,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+7 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - javax.swing.JTextField[,238,5,224x20,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@1a646ac,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],disabledTextColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],editable=true,margin=javax.swing.plaf.InsetsUIResource[top=0,left=0,bottom=0,right=0],selectedTextColor=sun.swing.PrintColorUIResource[r=51,g=51,b=51],selectionColor=javax.swing.plaf.ColorUIResource[r=184,g=207,b=229],columns=20,columnWidth=11,command=,horizontalAlignment=LEADING]
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Min Length is: 8
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - Max Length is: 15
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+8 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - Inside generateNewPassword
+12 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789+-*/
+12 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - charTypes: 0123456789+-*/
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 8  charTypeLenghth 14 
+13 [AWT-EventQueue-0] DEBUG edu.mcckc.domain.PasswordManager  - random Length: 8  charTypeLenghth 14 
+14 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 0373/-56
+14 [AWT-EventQueue-0] DEBUG edu.mcckc.gui.PanelApp  - 0373/-56
